@@ -6,6 +6,10 @@ vlowe@salesforce.com
 -------------------------------------------------------------------------------------------------------------------
 Trailhead Academy:						https://trailheadacademy.salesforce.com/my-learning
 
+Cloudhub login link:                https://use.cloudshare.com/Class/3s39m
+
+Passphrase:                         Zoe the Beautiful Raptor
+
 -------------------------------------------------------------------------------------------------------------------
 
 Survey Link:									https://www.research.net/r/trailheadacademy
